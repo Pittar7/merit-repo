@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\Nauka\WSB podyplomowe\DotNet\merito-repo\merit-repo\MyDotNetWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/Nauka/WSB podyplomowe/DotNet/merito-repo/merit-repo/MyDotNetWebApp/Views/Home/Hello.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIZWxsby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Nauka/WSB podyplomowe/DotNet/merito-repo/merit-repo/MyDotNetWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
